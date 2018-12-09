@@ -15,7 +15,7 @@ class ViewController: UIViewController {
             FlipcontLabel.text = "FLIP : \(flipcount)"
         }
     }
-    
+    var a = 2;
     var emojiChoices = ["👻","🎃","🏀","👻","🎃","🏀"]
     
     @IBOutlet weak var FlipcontLabel: UILabel!
@@ -52,6 +52,7 @@ class ViewController: UIViewController {
         
         
     }
+    
     
     
 
