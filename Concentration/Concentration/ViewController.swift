@@ -53,6 +53,10 @@ class ViewController: UIViewController {
         
     }
     
+    func Verify(){
+        
+    }
+    
     
     
 
